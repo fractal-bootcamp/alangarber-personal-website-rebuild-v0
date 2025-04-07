@@ -49,10 +49,10 @@ export default function HeroSection() {
           <div className="main-image flex-1 flex justify-center">
             <div className="relative w-full max-w-md aspect-square">
               <Image
-                src="/placeholder.svg?height=400&width=400"
+                src="/me-may-2022.jpg"
                 alt="Alan Garber"
-                width={400}
-                height={400}
+                width={350}
+                height={350}
                 className="rounded-lg shadow-lg object-cover"
               />
             </div>
