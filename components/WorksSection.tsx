@@ -3,7 +3,7 @@ import Image from "next/image"
 const projects = [
   {
     title: "Magic: The Gathering Card Lookup",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/mtg-banner.jpg",
     description: [
       "Magic: The Gathering card lookup website",
       "Built with Angular and MTG Developers API",
@@ -17,7 +17,7 @@ const projects = [
   },
   {
     title: "Travel Advisory",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/google-maps-icon.jpg",
     description: [
       "Travel advisory website",
       "Shows hotels, restaurants, and attractions near you",
@@ -31,7 +31,7 @@ const projects = [
   },
   {
     title: "Swordle",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/wordle-clone.png",
     description: [
       "Swordle; clone of popular Internet phenomenon Wordle",
       "Built with React and CSS",
@@ -45,7 +45,7 @@ const projects = [
   },
   {
     title: "Word Quiz",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/ready-for-a-quiz.jpeg",
     description: ["Word association game", "Built with React and Word Quiz API"],
     links: {
       project: "https://alanmgarber.com/Word-Quiz",

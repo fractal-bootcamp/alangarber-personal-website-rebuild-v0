@@ -11,7 +11,7 @@ export default function TarotProject() {
         <div className="cards-container flex justify-center gap-8 mb-8">
           <div className="relative w-36 h-56 md:w-40 md:h-64">
             <Image
-              src="/placeholder.svg?height=256&width=150"
+              src="/the_fool.jpg"
               alt="Tarot Card 1"
               width={150}
               height={256}
@@ -20,7 +20,7 @@ export default function TarotProject() {
           </div>
           <div className="relative w-36 h-56 md:w-40 md:h-64">
             <Image
-              src="/placeholder.svg?height=256&width=150"
+              src="/king_of_pentacles.jpg"
               alt="Tarot Card 2"
               width={150}
               height={256}
